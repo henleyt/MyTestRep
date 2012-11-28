@@ -1,0 +1,2 @@
+serviceClass: testDrive.client.GreetingService
+path: DFFF875645FE37634A45A3ED1C9EE414.gwt.rpc
